@@ -3,10 +3,10 @@
 return new \Phalcon\Config(array(
     'database' => array(
         'adapter'     => 'Mysql',
-        'host'        => '173.230.151.149',
-        'username'    => 'careext',
-        'password'    => 'u4x3dDlW7@DQ',
-        'dbname'      => 'dev_carenet',
+        'host'        => '',
+        'username'    => '',
+        'password'    => '',
+        'dbname'      => '',
     ),
     'application' => array(
         'controllersDir' => __DIR__ . '/../../app/controllers/',
